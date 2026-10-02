@@ -1,0 +1,6 @@
+{
+  "success": true,
+  "source": "YES OFFICER",
+  "note": "Courses are loaded live from the YES OFFICER API (see loadBatches in app.js). This file is intentionally empty.",
+  "batches": []
+}
